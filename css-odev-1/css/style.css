@@ -1,0 +1,42 @@
+article,header,footer {
+    width: 900px;
+    margin: auto;
+}
+
+
+header, footer{
+   font-size: 40px; 
+   text-align: center
+
+}
+
+
+.saga-kaydir {
+    float: right;
+    padding: 0 0 10px 10px;
+}
+
+.sola-kaydir {
+    float: left;
+    padding: 0 10px 10px 0;
+}
+
+.resim {
+    width: 175px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p{
+    font-size: 25px;
+}
+
+button {
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    border-radius: 10px;
+}
