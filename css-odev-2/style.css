@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+
+.container{
+    margin-left: 100px; 
+    margin-right: 100px;
+
+}
+
+.table{
+    border: 0;
+    width: 100%;
+}
+
+
+.search-bar{
+    background: #EEEEEE; 
+    margin-bottom: 5px;
+    padding-bottom: 3px; 
+    
+}
+
+
+.special-searchs{
+    background-color: #7EE5DA;
+    float: left;
+    width: 460px;
+    height: 70px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.help{
+    float: inline-start+5px;
+    background-color: #70CCC2;
+    font-size: small;
+    width: 250px;
+    height: 80px;
+    text-align: center;
+    padding: 5px;
+}
+
+.email{
+    float: inline-end;
+    background-color: #62B3AA;
+    text-align: center;
+    font-size: small;
+    width: 485px;
+    height: 70px;
+    padding: 10px;
+}
+
