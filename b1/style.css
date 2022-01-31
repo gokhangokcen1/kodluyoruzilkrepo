@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    display: flex;
+}
+.menu {
+    list-style: none;
+    padding: 10px;
+    margin-top: 20px;
+}
+ul li a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.navbar {
+    width: 30%;
+}
+.logo {
+    color:black;
+}
+.hello {
+    margin-left: 40%;
+    padding-top: 100px;
+}
+.list {
+    margin-left: 35%;
+    margin-top: 50px;
+}
+.product-list {
+    display: inline-block;
+    margin-left: 20%;
+    padding-top: 30px;
+}
+.product {
+    padding: 10px;
+}
+.button {
+    margin-left: 50%;
+}
+.hello {
+    color:cornflowerblue
+}
